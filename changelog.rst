@@ -3,13 +3,81 @@ Change Log
 ##########
 
 Version 3.x
-=============
+==============
 
 Release Date: Unreleased
 
 -   New Translations
 
+   
 -   Updated Translations
+    
+      - japanese
+      - thai
+      
+Version 3.1.11
+==============
+
+Release Date: Unreleased
+
+-   New Translations
+
+    -   basque
+    -   marathi
+    
+-   Updated Translations
+
+    -   arabic
+    -   czech
+    -   french
+    -   portugese-brazilian
+    -   portugese-brazilian
+
+Version 3.1.10
+==============
+
+Release Date: Jan 16, 2019
+
+-   Updated Translations
+
+    -   bulgarian
+    -   french
+    -   gujarati
+    -   indonesian
+    -   lithuanian
+    -   portugese-brazilian
+    -   thai
+    
+Version 3.1.9
+=============
+
+Release Date: June 12, 2018
+
+-   Updated Translations
+
+    -   portugese-brazilian
+    -   simplified-chinese
+    
+Version 3.1.8
+=============
+
+Release Date: Mar 22, 2018
+
+-   Updated Translations
+
+    -   arabic
+    -   norwegian
+
+    
+Version 3.1.7
+=============
+
+Release Date: Jan 13, 2018
+
+-   Updated Translations
+
+    -   lithuanian
+    -   portugese-brazilian
     
 Version 3.1.6
 =============

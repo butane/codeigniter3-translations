@@ -3,7 +3,7 @@
  * System messages translation for CodeIgniter(tm)
  *
  * @author	CodeIgniter community
- * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @copyright	Copyright (c) 2014-2019, British Columbia Institute of Technology (https://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	https://codeigniter.com
  */
@@ -13,7 +13,7 @@ $lang['imglib_source_image_required'] = '設定で元画像を指定する必要
 $lang['imglib_gd_required'] = 'この機能には、GD ライブラリが必要です。';
 $lang['imglib_gd_required_for_props'] = '画像プロパティを取得するには、お使いのサーバで GD ライブラリがサポートされている必要があります。';
 $lang['imglib_unsupported_imagecreate'] = 'この形式の画像を処理するためのGDの機能が、お使いのサーバでサポートされていません。';
-$lang['imglib_gif_not_supported'] = 'GIF 形式の画像はライセンスの関係でサポートされていないことがよくあります。かわわりに JPG または PNG 画像を使用してください。';
+$lang['imglib_gif_not_supported'] = 'GIF 形式の画像はライセンスの関係でサポートされていないことがよくあります。かわりに JPG または PNG 画像を使用してください。';
 $lang['imglib_jpg_not_supported'] = 'JPG 形式の画像はサポートされていません。';
 $lang['imglib_png_not_supported'] = 'PNG 形式の画像はサポートされていません。';
 $lang['imglib_jpg_or_png_required'] = '設定で指定されているい画像リサイズ方法は、JPEG または PNG 形式でのみ動作します。';
